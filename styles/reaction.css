@@ -1,0 +1,10 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
